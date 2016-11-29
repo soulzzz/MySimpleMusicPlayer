@@ -319,7 +319,7 @@ public class SimpleMusicPlayerActivity extends Activity implements OnCompletionL
 		   public void run() {
 			   long totalDuration = mp.getDuration();
 			   long currentDuration = mp.getCurrentPosition();
-			  
+
 			   // Displaying Total Duration time
 			   songTotalDurationLabel.setText(""+utils.milliSecondsToTimer(totalDuration));
 			   // Displaying time completed playing
