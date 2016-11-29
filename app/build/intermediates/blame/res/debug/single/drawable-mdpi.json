@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\D\\Android\\AndroidBuildingMusicPlayerV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\D\\Android\\AndroidBuildingMusicPlayerV\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
