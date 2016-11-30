@@ -12,9 +12,10 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
         <activity
-            android:name=".SimpleMusicPlayerActivity"
+            android:name="com.androidhive.musicplayer.SimpleMusicPlayerActivity"
             android:label="@string/header_text"
-            android:configChanges="keyboardHidden|orientation">
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="userPortrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -24,7 +25,8 @@
         
         <activity
             android:label="@string/header_text"
-            android:name=".PlayListActivity" />
+            android:name="com.androidhive.musicplayer.PlayListActivity"
+            android:screenOrientation="userPortrait"/>
     </application>
 
 </manifest>

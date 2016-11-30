@@ -3,12 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\vimal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jar="C:\Users\vimal\.gradle\caches\modules-2\files-2.1\com.trello\rxlifecycle\1.0\6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb\rxlifecycle-1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
-        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_6abf665596f45f208ca313853f4593b5d751bdd2.jar" />
+        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\rxlifecycle-1.0_ae1840f9cb332e9a2523fb29d18fd02e56f636a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_ca978fe59e1c9cbc32ac3d92ee99515ab2673bcd.jar" />
     </item>
     <item
         is-multidex="false"
@@ -21,12 +30,192 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_473608b0aaa9381f253431916622886d38b28c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9eae65b3b04736c79c0f961986c06701fef588ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_614662f91e8ff2435726db16476c17017499ff7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_1e3fb4f22788ff62da86ebab687ac41fdc262c98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-android\1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.trello-rxlifecycle-android-1.0_4465e1ba5ad623dc7357b7bd269f6263fc2e6420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_33eb5f7e2090bd84ab68fc0fb309c70ee3d95290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vimal\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.3\7fe1a94c1aeb958acc876fe616922cc191f3222c\rxjava-1.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fe1a94c1aeb958acc876fe616922cc191f3222c">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\rxjava-1.2.3_75eede299d9cd774d3f821f3f5539e02d8d18dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_211de97c207e1c10be5d4c97a4218bbd8e779582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_45240c8c1f17a69c7a8b445876410ad62a42c8f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vimal\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\jsr305-3.0.1_43e4b166a3f4792abf938c9395ddc1ef6d387b81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-components\1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b32c2324baa75a12968b466b74064c49841a0018">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.trello-rxlifecycle-components-1.0_0700cd8e14fbda48826b0e0f86fa77c9f0d49531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vimal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_40ed1cc69cd6f5beb1f1e5358d496909962e94c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_c8013e780dcf10b718f22d9ca95bff4a3a1b9bb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_dae45c6056cbe83f30f0dd24d05778af4c17043e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_b150a77c2a11bccea4380ba3be0ab9d37a098d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding\0.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.jakewharton.rxbinding-rxbinding-0.4.0_1e84230b4a5f2d8f7825b56220ffd3c8c1e73bcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5e43e35fe216175a17980f542ada94704709f186.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="a07818a1ecabdb149998823429cce555af4b9cba">
         <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_8bb2d0c156b4c5a3d72707e37e7f76df324b1941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_64538238d1b7a78f614aadc8033b61f5ec783193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_85eb5866624b6351af208eed8211ae87dad83171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_218fe9031cd7ad16a002472f45a10930e2e22b17.jar" />
     </item>
 
 </items>
