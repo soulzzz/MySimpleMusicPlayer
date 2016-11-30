@@ -1,4 +1,4 @@
-package com.androidhive.musicplayer;
+package in.lamiv.simplemusicplayer;
 
 
 public class Utilities {

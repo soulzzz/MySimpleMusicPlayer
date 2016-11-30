@@ -48,20 +48,20 @@
         "source": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\seek_handler.png"
     },
     {
-        "merged": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_previous_pressed.png",
-        "source": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\img_btn_previous_pressed.png"
-    },
-    {
         "merged": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_backward.png",
         "source": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\img_btn_backward.png"
     },
     {
-        "merged": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_seekbar_bg.png",
-        "source": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\img_seekbar_bg.png"
+        "merged": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_previous_pressed.png",
+        "source": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\img_btn_previous_pressed.png"
     },
     {
         "merged": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_playlist.png",
         "source": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\img_btn_playlist.png"
+    },
+    {
+        "merged": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_seekbar_bg.png",
+        "source": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\src\\main\\res\\drawable-hdpi\\img_seekbar_bg.png"
     },
     {
         "merged": "C:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_seekbar_progress_blue.png",

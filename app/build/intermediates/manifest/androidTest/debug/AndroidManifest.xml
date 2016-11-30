@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.androidhive.musicplayer.test">
+    package="in.lamiv.simplemusicplayer.test">
 
     <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="24" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.androidhive.musicplayer"
+                     android:targetPackage="in.lamiv.simplemusicplayer"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.androidhive.musicplayer"/>
+                     android:label="Tests for in.lamiv.simplemusicplayer"/>
 </manifest>

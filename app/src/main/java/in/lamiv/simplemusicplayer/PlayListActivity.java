@@ -1,4 +1,4 @@
-package com.androidhive.musicplayer;
+package in.lamiv.simplemusicplayer;
 
 import java.util.ArrayList;
 import java.util.HashMap;
