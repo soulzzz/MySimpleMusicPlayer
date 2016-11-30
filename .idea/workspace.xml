@@ -6,7 +6,43 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="258407eb-d39b-4c78-a361-bcda26d0e255" name="Default" comment="" />
+    <list default="true" id="258407eb-d39b-4c78-a361-bcda26d0e255" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/PlayListActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/PlayListActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/PlayListActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/PlayListActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SimpleMusicPlayerActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SongsManager.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/SongsManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/Utilities.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/androidhive/musicplayer/Utilities.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/qRp4WKJetAwro1rSUWE2pmnJRMU=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/qRp4WKJetAwro1rSUWE2pmnJRMU=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/androidhive/musicplayer/SimpleMusicPlayerActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/androidhive/musicplayer/SimpleMusicPlayerActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+    </list>
     <ignored path="MySimpleMusicPlayer.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +94,7 @@
       <file leaf-file-name="PlayListActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidhive/musicplayer/PlayListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="121">
               <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -106,7 +142,7 @@
       <file leaf-file-name="SongsManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidhive/musicplayer/SongsManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
+            <state relative-caret-position="300">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -130,8 +166,8 @@
       <file leaf-file-name="SimpleMusicPlayerActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidhive/musicplayer/SimpleMusicPlayerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="328" column="37" selection-start-line="328" selection-start-column="37" selection-end-line="328" selection-end-column="37" />
+            <state relative-caret-position="800">
+              <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
               <folding>
                 <element signature="method#onCreate#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
                 <element signature="docComment;method#onActivityResult#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
@@ -140,8 +176,8 @@
                 <element signature="method#playSong#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
                 <element signature="docComment;method#updateProgressBar#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
                 <element signature="docComment;field#mUpdateTimeTask#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
-                <element signature="e#8658#9376#0" expanded="true" />
-                <element signature="e#9375#9376#0" expanded="true" />
+                <element signature="e#8534#9252#0" expanded="true" />
+                <element signature="e#9251#9252#0" expanded="true" />
                 <element signature="docComment;method#onProgressChanged#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
                 <element signature="method#onProgressChanged#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
                 <element signature="docComment;method#onStartTrackingTouch#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
@@ -2334,17 +2370,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidhive/musicplayer/Utilities.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-24/android/media/MediaPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="257">
+          <caret line="3093" column="21" selection-start-line="3093" selection-start-column="21" selection-end-line="3093" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidhive/musicplayer/PlayListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidhive/musicplayer/SongsManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
+        <state relative-caret-position="300">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2354,28 +2400,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidhive/musicplayer/PlayListActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidhive/musicplayer/Utilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-24/android/media/MediaPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="3093" column="21" selection-start-line="3093" selection-start-column="21" selection-end-line="3093" selection-end-column="21" />
+        <state relative-caret-position="75">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidhive/musicplayer/SimpleMusicPlayerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="328" column="37" selection-start-line="328" selection-start-column="37" selection-end-line="328" selection-end-column="37" />
+        <state relative-caret-position="800">
+          <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
           <folding>
             <element signature="method#onCreate#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
             <element signature="docComment;method#onActivityResult#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
@@ -2384,8 +2420,8 @@
             <element signature="method#playSong#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
             <element signature="docComment;method#updateProgressBar#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
             <element signature="docComment;field#mUpdateTimeTask#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
-            <element signature="e#8658#9376#0" expanded="true" />
-            <element signature="e#9375#9376#0" expanded="true" />
+            <element signature="e#8534#9252#0" expanded="true" />
+            <element signature="e#9251#9252#0" expanded="true" />
             <element signature="docComment;method#onProgressChanged#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
             <element signature="method#onProgressChanged#0;class#SimpleMusicPlayerActivity#0" expanded="false" />
             <element signature="docComment;method#onStartTrackingTouch#0;class#SimpleMusicPlayerActivity#0" expanded="false" />

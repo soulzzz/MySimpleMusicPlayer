@@ -25,36 +25,35 @@ public class SimpleMusicPlayerActivity extends Activity implements OnCompletionL
 	@BindView(R.id.btnPlay)
 	ImageButton btnPlay;
 	@BindView(R.id.btnForward)
-	private ImageButton btnForward;
+	ImageButton btnForward;
 	@BindView(R.id.btnBackward)
-	private ImageButton btnBackward;
+	ImageButton btnBackward;
 	@BindView(R.id.btnNext)
-	private ImageButton btnNext;
+	ImageButton btnNext;
 	@BindView(R.id.btnPrevious)
-	private ImageButton btnPrevious;
+	ImageButton btnPrevious;
 	@BindView(R.id.btnPlaylist)
-	private ImageButton btnPlaylist;
+	ImageButton btnPlaylist;
 	@BindView(R.id.btnRepeat)
-	private ImageButton btnRepeat;
+	ImageButton btnRepeat;
 	@BindView(R.id.btnShuffle)
-	private ImageButton btnShuffle;
+	ImageButton btnShuffle;
 	@BindView(R.id.songProgressBar)
-	private SeekBar songProgressBar;
+	SeekBar songProgressBar;
 	@BindView(R.id.songTitle)
-	private TextView songTitleLabel;
+	TextView songTitleLabel;
 	@BindView(R.id.songCurrentDurationLabel)
-	private TextView songCurrentDurationLabel;
+	TextView songCurrentDurationLabel;
 	@BindView(R.id.songTotalDurationLabel)
-	private TextView songTotalDurationLabel;
+	TextView songTotalDurationLabel;
 	// Media Player
 	private  MediaPlayer mp;
 	// Handler to update UI timer, progress bar etc,.
 	private Handler mHandler = new Handler();;
-	private SongsManager songManager;
 	private Utilities utils;
 	private int seekForwardTime = 5000; // 5000 milliseconds
 	private int seekBackwardTime = 5000; // 5000 milliseconds
-	private int currentSongIndex = 0; 
+	private int currentSongIndex = 0;
 	private boolean isShuffle = false;
 	private boolean isRepeat = false;
 	private ArrayList<HashMap<String, String>> songsList = new ArrayList<HashMap<String, String>>();

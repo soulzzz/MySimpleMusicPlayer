@@ -2,18 +2,31 @@
 <items version="2" >
 
     <item
-        jar="C:\D\Android\AndroidBuildingMusicPlayerV\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\vimal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
         revision="24.0.2"
-        sha1="a2501431089ca5afc194b781b462d817668770b7">
-        <dex dex="C:\D\Android\AndroidBuildingMusicPlayerV\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_52bf7c71f78e98bf95567ba3cda7cbbc25279812\classes.dex" />
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_6abf665596f45f208ca313853f4593b5d751bdd2.jar" />
     </item>
     <item
-        jar="C:\D\Android\AndroidBuildingMusicPlayerV\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\vimal\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
         revision="24.0.2"
-        sha1="305d511b0b55621cc568fb1635459bb77d9fa537">
-        <dex dex="C:\D\Android\AndroidBuildingMusicPlayerV\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cdac39017889de42e194856247565a92e4a01a7d\classes.dex" />
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_bcc5171fa3f8a1cbc8139bd8b9ed6ec83fa6caad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\D\Android\MySimpleMusicPlayer\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_8bb2d0c156b4c5a3d72707e37e7f76df324b1941.jar" />
     </item>
 
 </items>

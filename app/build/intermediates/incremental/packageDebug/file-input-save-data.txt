@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Nov 28 18:01:27 AEDT 2016
+#Wed Nov 30 11:47:43 AEDT 2016
 5.base=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_
 42.base=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_
 32.set=ANDROID_RESOURCE
@@ -74,11 +74,11 @@ count=50
 3.base=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 40.base=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_
 12.set=ANDROID_RESOURCE
-12.file=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\img_btn_pause.png
+12.file=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\player.xml
 7.base=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_
 19.set=ANDROID_RESOURCE
 44.base=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_
-16.file=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\btn_next.xml
+16.file=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\btn_forward.xml
 3.set=DEX
 20.base=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_
 41.set=ANDROID_RESOURCE
@@ -103,7 +103,7 @@ count=50
 23.file=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\btn_backward.xml
 33.file=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\img_btn_previous_pressed.png
 6.set=ANDROID_RESOURCE
-17.file=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\btn_forward.xml
+17.file=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\btn_next.xml
 0.base=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_
 44.set=ANDROID_RESOURCE
 27.file=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\btn_play.xml
@@ -112,7 +112,7 @@ count=50
 4.base=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_
 41.base=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_
 22.set=ANDROID_RESOURCE
-13.file=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\player.xml
+13.file=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\img_btn_pause.png
 8.base=C\:\\D\\Android\\MySimpleMusicPlayer\\app\\build\\intermediates\\res\\resources-debug.ap_
 11.set=ANDROID_RESOURCE
 29.set=ANDROID_RESOURCE
